@@ -1,1 +1,1 @@
-# yallaplus
+A cashier system for a small business helps process sales quickly and accurately while keeping daily operations organized. It allows businesses to accept different payment methods, issue receipts, and track sales in real time.
